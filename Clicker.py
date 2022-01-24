@@ -4,9 +4,8 @@ import keyboard
 import pyautogui
 
 CLICKER_SPEED = 0.05
-print(CLICKER_SPEED)
-a = input()
 CLICK = False
+
 while True:
     # sleep используется для замедления цикла, чтобы не грузил ЦП
     if keyboard.is_pressed('v'):
