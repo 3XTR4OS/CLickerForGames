@@ -4,3 +4,5 @@
 --/ Управление /--
 Q - остановить
 V - начать кликать
+
+![clicker_work](https://github.com/3XTR4OS/CLickerForGames/tree/main/WorkVideo.gif)
